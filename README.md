@@ -1,2 +1,2 @@
 # RSA_CS1101
-Attempt at making RSA
+Coded some form of RSA as an extra credit project for _CS1101_
